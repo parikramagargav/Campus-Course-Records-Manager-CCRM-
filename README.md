@@ -1,13 +1,15 @@
 # Campus Course & Records Manager (CCRM)
 
-## Project Overview
+## Project Description
 
-Campus Course & Records Manager (CCRM) is a modular Java SE command-line application for comprehensive institute academic record management.
+Campus Academic Management System (CAMS) is a robust Java-based command-line application designed for efficient management of academic operations in educational institutions. The system provides comprehensive functionality for handling student records, course administration, enrollment processes, and academic reporting.
 
-- **Students**: Add/list/update/deactivate, enroll/unenroll in courses
-- **Courses**: Add/list/update/deactivate, search/filter, assign instructors
-- **Grades & Transcripts**: Record grades, compute GPA, print transcript
-- **File Utilities**: Import/export CSV, backup/archive, recursive utilities
+## Core Functionalities
+
+- **Student  Management**: Complete CRUD operations for student profiles with enrollment tracking
+- **Course Administration**: Manage course catalog, assignments, and scheduling
+- **Academic Records**: Grade management, GPA calculation, and transcript generation
+- **Data Operations**: Advanced file handling with CSV import/export and backup systems
 
 All features use OOP, robust exception handling, Java NIO.2 for file operations, Date/Time API, Streams & lambdas, and classic/modern CLI programming.
 
