@@ -1,1 +1,1 @@
-# Vityarthi-Project-
+# Campus Course & Records Manager (CCRM)
